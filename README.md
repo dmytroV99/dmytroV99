@@ -2,7 +2,7 @@
 
 ### Software Tester | QA Engineer
 
-I'm a Software Tester based in Prague with hands-on experience in manual testing of web and mobile applications, backend systems and iGaming products.
+I'm a Software Tester based with hands-on experience in manual testing of web and mobile applications, backend systems and iGaming products.
 
 I enjoy finding issues, analyzing software behavior and making sure products work reliably and provide a good user experience.
 
